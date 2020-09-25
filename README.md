@@ -6,6 +6,17 @@ Currently working on: \
 :eight_spoked_asterisk: Large-scale place recognition with point-clouds \
 -->
 
+<!--
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PietroGriffa&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PietroGriffa&layout=compact&count_private=true?" />
+</a>
+</p>
+-->
+
 <p align="center">
   <img  src="https://media.giphy.com/media/LIfWMQn6Ssn03o8iQy/giphy.gif" width="700" />
 </p>
