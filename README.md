@@ -6,6 +6,10 @@ Currently working on: \
 :eight_spoked_asterisk: Large-scale place recognition with point-clouds \
 -->
 
+<p align="center">
+  <img  src="https://media.giphy.com/media/LIfWMQn6Ssn03o8iQy/giphy.gif" width="700" />
+</p>
+
 <!--
 **PietroGriffa/PietroGriffa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
