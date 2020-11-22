@@ -1,10 +1,5 @@
 ### It's a me, Pietro :bowtie: 
 
-Take a look around!
-
-If you are interested in see more:
-
-
 
 <!--Welcome on the profile of another super-cool master student in Robotics at ETH Zurich.
 
