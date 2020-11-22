@@ -1,0 +1,31 @@
+"*":
+  core:
+    autoHideMenuBar: true
+    closeDeletedFileTabs: true
+    disabledPackages: [
+      "linter-pylint"
+    ]
+    openEmptyEditorOnStart: false
+    telemetryConsent: "no"
+    themes: [
+      "atom-material-ui"
+      "atom-dark-syntax"
+    ]
+  editor:
+    preferredLineLength: 100
+    showIndentGuide: true
+    showInvisibles: true
+    softWrap: true
+    softWrapAtPreferredLineLength: true
+    softWrapHangingIndent: 2
+    tabLength: 4
+  "exception-reporting":
+    userId: "f6a731dc-7326-4aac-8b2e-96686b37e547"
+  "linter-pylint":
+    pythonPath: "%p/setup/pietro_venv/bin/python"
+  "linter-ui-default":
+    panelHeight: 214
+  wakatime:
+    apikey: "Saved in your $WAKATIME_HOME/.wakatime.cfg file"
+  welcome:
+    showOnStartup: false
