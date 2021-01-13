@@ -20,16 +20,16 @@ Currently working on: \
 -->
 
 
-<table width="730" align="center" border="0" cellspacing="0" cellpadding="20" style="border: none; vertical-align: middle;">
+<table width="800" align="center" border="0" cellspacing="0" cellpadding="20" style="border: none; vertical-align: middle;">
   <tbody>
-    <tr style="border: none; vertical-align: middle;">
-      <td width="550" style="border: none; vertical-align: middle;">
+    <tr style="border: none; vertical-align: middle;"  border="none">
+      <td width="600" style="border: none; vertical-align: middle;"  border="none">
 	    <div>
-		  Hello there!
+		  Hello there! <br>
 		  Currently working on:
 		</div>
       </td>
-	  <td width="180" style="border: none; vertical-align: middle;">
+	  <td width="200" style="border: none; vertical-align: middle;" border="none">
         <div style="width: auto; overflow: hidden;">
           Ciao
         </div>
