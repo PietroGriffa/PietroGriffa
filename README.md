@@ -1,4 +1,4 @@
-### It's a me, Pietro :bowtie: 
+### It's a me, Pietro :bowtie:
 
 
 <!--Welcome on the profile of another super-cool master student in Robotics at ETH Zurich.
@@ -19,25 +19,19 @@ Currently working on: \
 </p>
 -->
 
-<style>
-table, tr, td {
-  border: none;
-  vertical-align: middle;
-}​
-</style>
 
-<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20" style="border: none; vertical-align: middle;">
   <tbody>
-    <tr style="padding-bottom: 5px;">
-      <td width="75%">
+    <tr style="border: none; vertical-align: middle;">
+      <td width="75%" style="border: none; vertical-align: middle;">
 	    <div>
 		  Hello there!
 		  Currently working on:
 		</div>
       </td>
-	  <td width="15%">
+	  <td width="15%" style="border: none; vertical-align: middle;">
         <div style="width: auto; overflow: hidden;">
-          Ciao 
+          Ciao
         </div>
       </td>
     </tr>
