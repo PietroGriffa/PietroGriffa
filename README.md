@@ -28,22 +28,19 @@ table, tr, td {
 
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
   <tbody>
-
     <tr style="padding-bottom: 5px;">
       <td width="75%">
-		<div>
+	    <div>
 		  Hello there!
-
 		  Currently working on:
 		</div>
       </td>
 	  <td width="15%">
         <div style="width: auto; overflow: hidden;">
-          
+          Ciao 
         </div>
       </td>
     </tr>
-
   </tbody>
 </table>
 
