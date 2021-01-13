@@ -29,7 +29,7 @@ Currently working on: \
 		  Currently working on:
 		</div>
       </td>
-	  <td width="180%" style="border: none; vertical-align: middle;">
+	  <td width="180" style="border: none; vertical-align: middle;">
         <div style="width: auto; overflow: hidden;">
           Ciao
         </div>
