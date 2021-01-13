@@ -19,6 +19,35 @@ Currently working on: \
 </p>
 -->
 
+<style>
+table, tr, td {
+  border: none;
+  vertical-align: middle;
+}​
+</style>
+
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+  <tbody>
+
+    <tr style="padding-bottom: 5px;">
+      <td width="75%">
+		<div>
+		  Hello there!
+
+		  Currently working on:
+		</div>
+      </td>
+	  <td width="15%">
+        <div style="width: auto; overflow: hidden;">
+          
+        </div>
+      </td>
+    </tr>
+
+  </tbody>
+</table>
+
+------
 <p align="center">
   <img  src="https://media.giphy.com/media/LIfWMQn6Ssn03o8iQy/giphy.gif" width="700" />
 </p>
