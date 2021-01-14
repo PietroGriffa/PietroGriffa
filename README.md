@@ -19,7 +19,7 @@ Currently working on: \
 </p>
 -->
 
-
+<!--
 <table width="880" align="center" border="none" cellspacing="0" cellpadding="20" style="border: none; vertical-align: middle;">
   <tbody>
     <tr border="none">
@@ -37,6 +37,7 @@ Currently working on: \
     </tr>
   </tbody>
 </table>
+-->
 
 ------
 <p align="center">
