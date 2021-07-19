@@ -1,4 +1,4 @@
-### It's a me, Pietro :bowtie:
+### Hello there
 
 
 <!--Welcome on the profile of another super-cool master student in Robotics at ETH Zurich.
