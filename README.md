@@ -1,4 +1,4 @@
-### It's a me, Pietro :bowtie:
+### Hello there
 
 
 <!--Welcome on the profile of another super-cool master student in Robotics at ETH Zurich.
@@ -19,17 +19,17 @@ Currently working on: \
 </p>
 -->
 
-
-<table width="730" align="center" border="0" cellspacing="0" cellpadding="20" style="border: none; vertical-align: middle;">
+<!--
+<table width="880" align="center" border="none" cellspacing="0" cellpadding="20" style="border: none; vertical-align: middle;">
   <tbody>
-    <tr style="border: none; vertical-align: middle;">
-      <td width="550" style="border: none; vertical-align: middle;">
+    <tr border="none">
+      <td width="550" border="none">
 	    <div>
-		  Hello there!
+		  Hello there! <br>
 		  Currently working on:
 		</div>
       </td>
-	  <td width="180" style="border: none; vertical-align: middle;">
+	  <td width="330" border="none">
         <div style="width: auto; overflow: hidden;">
           Ciao
         </div>
@@ -37,6 +37,7 @@ Currently working on: \
     </tr>
   </tbody>
 </table>
+-->
 
 ------
 <p align="center">
