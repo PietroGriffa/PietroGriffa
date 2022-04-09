@@ -1,7 +1,7 @@
 # i3
 
 <p align="center">
-  <img src="../media/i3.svg" width="350"/>
+  <img src="./logo.png" width="150"/>
 </p>
 
 Great windows manager for developers. \

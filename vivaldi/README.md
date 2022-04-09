@@ -1,7 +1,7 @@
 # Vivaldi
 
 <p align="center">
-  <img src="../media/vivaldi.png" width="150"/>
+  <img src="./logo.png" width="150"/>
 </p>
 
 Great browser. \
