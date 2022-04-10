@@ -25,3 +25,5 @@ Visit the website and download the DEB package.
 Find the `Profile Path` at `vivaldi://about`. \
 It's probably something on the line of `$HOME/.config/vivaldi/Default`. \
 Copy it to target pc in right location to import the profile.
+
+## Theme

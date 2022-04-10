@@ -1,31 +1,65 @@
 "*":
+  "atom-ide-base": {}
+  "atom-ide-code-format":
+    formatOnSave: false
   core:
-    autoHideMenuBar: true
     closeDeletedFileTabs: true
     disabledPackages: [
       "linter-pylint"
+      "seti-icons"
+      "atom-file-icons"
     ]
     openEmptyEditorOnStart: false
     telemetryConsent: "no"
     themes: [
-      "atom-material-ui"
-      "atom-dark-syntax"
+      "mono-ui"
+      "monokai"
     ]
   editor:
-    preferredLineLength: 100
+    autoIndentOnPaste: false
+    fontSize: 12
+    lineHeight: 1.4
     showIndentGuide: true
     showInvisibles: true
     softWrap: true
     softWrapAtPreferredLineLength: true
     softWrapHangingIndent: 2
-    tabLength: 4
   "exception-reporting":
     userId: "f6a731dc-7326-4aac-8b2e-96686b37e547"
+  "ide-python":
+    pylsPlugins:
+      autopep8:
+        enabled: false
+      flake8:
+        enabled: true
+        maxLineLength: 80
+      jedi_completion:
+        include_params: false
+      preload:
+        enabled: false
+      pycodestyle:
+        enabled: false
+      pyflakes:
+        enabled: false
+      pyls_mypy:
+        enabled: false
+        live_mode: false
+      yapf:
+        enabled: true
+    python: "/usr/bin/python3.8"
+  linter:
+    lintOnChange: false
+    lintOnOpen: false
+    lintPreviewTabs: false
   "linter-pylint":
     pythonPath: "%p/setup/pietro_venv/bin/python"
   "linter-ui-default":
     panelHeight: 214
+  "tree-view":
+    hideVcsIgnoredFiles: true
   wakatime:
     apikey: "Saved in your $WAKATIME_HOME/.wakatime.cfg file"
   welcome:
     showOnStartup: false
+  whitespace:
+    ensureSingleTrailingNewline: false

@@ -1,0 +1,28 @@
+[global_config]
+  broadcast_default = off
+  suppress_multiple_term_dialog = True
+  title_transmit_bg_color = "#f57900"
+[keybindings]
+[layouts]
+  [[default]]
+    [[[child1]]]
+      parent = window0
+      type = Terminal
+    [[[window0]]]
+      parent = ""
+      type = Window
+[plugins]
+[profiles]
+  [[default]]
+    background_color = "#1d1d1d"
+    background_darkness = 0.8
+    cursor_color = "#aaaaaa"
+    font = Ubuntu Mono 12
+    icon_bell = False
+    scrollback_infinite = True
+    use_system_font = False
+  [[one]]
+    background_color = "#2e3436"
+    cursor_color = "#aaaaaa"
+    font = Ubuntu Mono 12
+    use_system_font = False
