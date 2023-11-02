@@ -1,0 +1,13 @@
+# Can install the packages listed here in bulk with command
+# apt-get install $(grep -vE "^\s*#" apt_packages.txt | sed -e 's/#.*//'  | tr "\n" " ") 
+
+tree  # nice tree visualization for files
+
+bat  # cat clone with wings
+# NOTE: If installed via apt-get bat is going to be installed as `batcat`
+# To have the correct alias refer to doc page online
+
+# Tops
+htop
+
+
